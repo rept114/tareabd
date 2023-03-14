@@ -1,4 +1,4 @@
-
+#Leer el Readme para explicación
 carro = input("Nombre de tu carro: ")
 modelo = input("Modelo de tu carro: ")
 
